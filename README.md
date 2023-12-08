@@ -20,4 +20,6 @@ b. Дверь. Арка и заслонка, перекрывающая арку
 Пример простого уровня: https://h-anim.github.io/Golf/
 
 
-Результат доступен по [ссылке](https://ggjnaaaa.github.io/PTG2_result_LR1/)
+Результат: https://ggjnaaaa.github.io/PTG2_result_LR1/
+
+Код: https://github.com/ggjnaaaa/PTG2_LR1
